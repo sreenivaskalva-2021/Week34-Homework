@@ -1,3 +1,10 @@
+This is a submission for Monash FinTech Bootcamp Feb 2021 - Homework 3 submission.
+
+The below section explains the code that is developed.
+
+Thank you
+
+
 # Unit 4 Homework Assignment: A Whale Off the Port(folio)
 
 ![Portfolio Analysis](Images/portfolio-analysis.png)
