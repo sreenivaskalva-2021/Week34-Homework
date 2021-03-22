@@ -1,4 +1,5 @@
 This is a submission for Monash FinTech Bootcamp Feb 2021 - Homework 3 submission.
+The homework submission is in file "W34-H3-whale_analysis_Complete.ipynb" under the directory https://github.com/sreenivaskalva-2021/Week-3-and-4/tree/master/Starter_Code
 
 The below section explains the code that is developed.
 
